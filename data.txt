@@ -1,1 +1,3 @@
-I'm doing a practice here
+# Ignore database files
+*.sqlite
+*.db
